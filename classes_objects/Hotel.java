@@ -5,15 +5,14 @@ package classes_objects;
 
 public class Hotel {
 
-    int coffee = 20;
-    int tea = 15;
-    int milo = 25;
+  int coffee = 20;
+  int tea = 15;
+  int milo = 25;
 
-    public static void main(String[] args) {
-        Hotel server1 = new Hotel();
+  public static void main(String[] args) {
+    Hotel server1 = new Hotel();
 
-        System.out.println(server1.coffee);
+    System.out.println(server1.coffee);
 
-
-    }
+  }
 }

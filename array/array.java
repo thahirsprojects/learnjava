@@ -3,7 +3,6 @@ package array;
 public class array {
     public static void main(String[] args) {
 
-
         String[] name = new String[4];
 
         name[0] = "Thahir";
@@ -15,9 +14,9 @@ public class array {
         name[3] = "Arun";
         System.out.println(name[3]);
 
-        String[] Array = {"one","two","three","four"};
+        String[] Array = { "one", "two", "three", "four" };
 
-        for(int i=0;i<=3;i++){
+        for (int i = 0; i <= 3; i++) {
             System.out.println(name[i]);
         }
 

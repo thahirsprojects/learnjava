@@ -9,12 +9,11 @@ public class t1 {
         int a = scan.nextInt();
         System.out.print("Enter the second number b : ");
         int b = scan.nextInt();
-        //ternary operator
+        // ternary operator
 
-        String result = a>b ?"a is greater":"a is greater";
+        String result = a > b ? "a is greater" : "a is greater";
 
         System.out.println(result);
     }
-    
-    
+
 }
