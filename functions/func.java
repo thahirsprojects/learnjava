@@ -10,13 +10,18 @@ public class func{
     }
 
     void intro(){
-        System.out.println("Hello! i'm Thahir");
+        System.out.println("How are you?");
 
+    }
+
+    static void end(){
+        System.out.println("See you Later");
     }
 
     public static void main(String[] args) {
         func obj1 = new func();
         obj1.greeting();
+        end();
         
     }
 }
