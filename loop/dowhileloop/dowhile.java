@@ -4,13 +4,12 @@ package loop.dowhileloop;
 
 public class dowhile {
     public static void main(String[] args) {
-        
+
         int count = 0;
-        do{
+        do {
             System.out.println("thahir");
             count++;
-        }
-        while(count <=10);
+        } while (count <= 10);
     }
-    
+
 }

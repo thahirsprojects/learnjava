@@ -1,4 +1,4 @@
-class hello{
+        class hello{
     public static void main(String args[]) //this is a comment
     {
         //printing a string as a output
