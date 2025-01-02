@@ -1,5 +1,3 @@
-package functionwithparameter;
-
 public class cal {
 
     void sum(int a,int b){
