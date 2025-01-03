@@ -1,3 +1,4 @@
+package methodwithparameter;
 public class withpara {
         void getsoap(int money){
             System.out.println(money);

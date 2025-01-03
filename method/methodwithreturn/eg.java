@@ -1,4 +1,4 @@
-package functionwithreturn;
+package methodwithreturn;
 
 public class eg {
 

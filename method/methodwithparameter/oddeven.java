@@ -1,3 +1,4 @@
+package methodwithparameter;
 import java.util.Scanner;
 
 public class oddeven{

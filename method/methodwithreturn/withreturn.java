@@ -1,4 +1,4 @@
-package functionwithreturn;
+package methodwithreturn;
 
 import java.util.Scanner;
 
